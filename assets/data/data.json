@@ -1,0 +1,242 @@
+{
+    "title": "ZekiDev | Portafolio",
+    "description": "Programador frontend/backend",
+    "image": "/zeki.svg",
+    "avatar": "/foto2.svg",
+    "name": "Ezequiel García Carvalho",
+    "skill": "Programador, hacker y el Elegido",
+    "location": "Jerez de la Frontera",
+    "media": {
+        "email": "skyditec@gmail.com",
+        "cv": "/data/cv.pdf",
+        "github": "https://github.com/Zequy40/Zequy40",
+        "likedin": "https://linkedin.com/in/ezequiel-garcia-carvalho"
+    },
+    "about": "Con más de 7 años de experiencia, soy programador backend y frontend. He trabajado en una variedad de proyectos, desde aplicaciones web hasta sistemas de gestión complejos. Mi enfoque en el aprendizaje continuo me permite mantenerme actualizado con las últimas tecnologías del sector. Estoy comprometido con la excelencia técnica y la innovación en el desarrollo de software.",
+    "technologies": [
+        {
+            "icon": "devicon-html5-plain colored ",
+            "name": "HTML5"
+        },
+        {
+            "icon": "devicon-css3-plain",
+            "name": "CSS3"
+        },
+        {
+            "icon": "devicon-javascript-plain colored",
+            "name": "JavaScript"
+        },
+        {
+            "icon": "devicon-php-plain colored",
+            "name": "PhP"
+        },
+        {
+            "icon": "devicon-python-plain",
+            "name": "Python"
+        },
+        {
+            "icon": "devicon-nodejs-plain-wordmark colored",
+            "name": "NodeJs"
+        },
+        {
+            "icon": "devicon-mysql-plain-wordmark",
+            "name": "MySQL"
+        },
+        {
+            "icon": "devicon-nextjs-plain",
+            "name": "Next"
+        },
+        {
+            "icon": "devicon-react-original colored",
+            "name": "React"
+        }
+    ],
+    "experience": [
+        {
+            "icon": "database",
+            "title": "Pluscover Solutions",
+            "subtitle": "Programador Backend",
+            "description": "Me dedico a mantener y crear las bases de datos par todos los productos y la app de gestion Administración.",
+            "date": "2018 - Actualidad "
+        },
+        {
+            "icon": "monitor-smartphone",
+            "title": "Skyditec",
+            "subtitle": "Desarrollador web",
+            "description": "Como freelance, creaba webs simples de información sde empresa y algunos e-commerce",
+            "date": "2015 - 2017"
+        },
+        {
+            "icon": "server",
+            "title": "Los Pollito mi compare Migue",
+            "subtitle": "Desarrollador Backend",
+            "description": "Como Backend creación de una gestion total y automatica con comercio digital para el asador, con facturación y pagos.",
+            "date": "2015 - 2017"
+        }
+    ],
+    "projects": [
+        {
+            "icon": "shirt",
+            "title": "Elizabeth ROM",
+            "subtitle": "Tienda online",
+            "description": "Tienda online de ropa de diseño, con gestion y pagos.",
+            "technologies": [
+                {
+                    "icon": "devicon-html5-plain colored",
+                    "name": "HTML5"
+                },
+                {
+                    "icon": "devicon-css3-plain",
+                    "name": "CSS3"
+                },
+                {
+                    "icon": "devicon-php-plain colored",
+                    "name": "PhP"
+                }
+                
+            ],
+            "image": "/elirom-portada.avif",
+            "url": "https://elizabethrom.com",
+            "github": "https://github.com/Zequy40/ElizabethRom-php",
+            "alt":"Portada de la web de Elizabeth Rom"
+        },
+        {
+            "icon": "pizza",
+            "title": "Gazpacho",
+            "subtitle": "Web de comida online",
+            "description": "Web de comida, con bases de datos, automatizados.",
+            "technologies": [
+                {
+                    "icon": "devicon-html5-plain colored",
+                    "name": "HTML5"
+                },
+                {
+                    "icon": "devicon-css3-plain",
+                    "name": "CSS3"
+                },
+                {
+                    "icon": "devicon-php-plain colored",
+                    "name": "PhP"
+                }
+            ],
+            "image": "/gazpacho portada.avif",
+            "url": "https://gazpacho.fr",
+            "github": "https://github.com/Zequy40/Zequy40",
+            "alt":"Portada de la web de Gazpacho"
+        },
+        {
+            "icon": "camera",
+            "title": "Manuel Cavilla",
+            "subtitle": "Portafolio",
+            "description": "Portafolio para enseñar sus proyectos de fotografía y diseño.",
+            "technologies": [
+                {
+                    "icon": "devicon-html5-plain colored",
+                    "name": "HTML5"
+                },
+                {
+                    "icon": "devicon-css3-plain",
+                    "name": "CSS3"
+                },
+                {
+                    "icon": "devicon-react-original colored",
+                    "name": "React"
+                }
+            ],
+            "image": "/manuelcavilla portada.avif",
+            "url": "https://manuelcavilla.com",
+            "github": "https://github.com/Zequy40/manuelcavilla_portfolio",
+            "alt":"Portada de la web del Portfolio de Manuel Cavilla"
+        },
+        {
+            "icon": "hard-drive",
+            "title": "Pluscover Solutions",
+            "subtitle": "Web de productos",
+            "description": "Web de productos y gestion de productos, con bases de datos, automatizados.",
+            "technologies": [
+                {
+                    "icon": "devicon-html5-plain colored",
+                    "name": "HTML5"
+                },
+                {
+                    "icon": "devicon-css3-plain",
+                    "name": "CSS3"
+                },
+                {
+                    "icon": "devicon-php-plain colored",
+                    "name": "PhP"
+                }
+            ],
+            "image": "/pluscover portada.avif",
+            "url": "https://pluscover.es",
+            "github": "https://github.com/Zequy40/Zequy40",
+            "alt":"Portada de la web de Pluscover Solutions"
+        },
+        {
+            "icon": "pocket-knife",
+            "title": "El afilador Professional",
+            "subtitle": "Web de Servicios",
+            "description": "Web de Servicios de cuchillos a domicilio.",
+            "technologies": [
+                {
+                    "icon": "devicon-html5-plain colored",
+                    "name": "HTML5"
+                },
+                {
+                    "icon": "devicon-css3-plain",
+                    "name": "CSS3"
+                },
+                {
+                    "icon": "devicon-astro-plain colored",
+                    "name": "AstroJs"
+                }
+            ],
+            "image": "/afiladorpro.avif",
+            "url": "https://afiladorpro.com",
+            "github": "https://github.com/Zequy40/afilador",
+            "alt":"Portada de la web del Afilador Pro"
+            
+        }
+    ],
+    "training": [
+        {
+            "icon": "graduation-cap",
+            "title": "Alfred Sauvy",
+            "subtitle": "Formación grado superior",
+            "description": "Electrotecnica.",
+            "date": "1996-2000",
+            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+        },
+        {
+            "icon": "backpack",
+            "title": "Alfred Sauvy",
+            "subtitle": "Formación grado medio",
+            "description": "Electrotecnica",
+            "date": "1994-1996",
+            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+        }
+    ],
+    "extras": [
+        {
+            "image": "/afiladorpro_mob.webp",
+            "title": "Diseño Movil",
+            "description": "Diseño Móvil, para mejor experiencia del usuario.",
+            "url": "https://afiladorpro.com",
+            "alt":"Portada de la web del Afilador Pro"
+        },
+        {
+            "image": "/gazpacho portada_mob.webp",
+            "title": "Diseño Adaptado",
+            "description": "No solamente es responsive sino que es adaptado a móvil como si fuese una app nativa.",
+            "url": "https://gazpacho.fr",
+            "alt":"Portada de la web de Gazpacho"
+        },
+        {
+            "image": "/elirom-portada_mob.webp",
+            "title": "Diseño WepApp",
+            "description": "Diseñado imitando las webs apps.",
+            "url": "https://elizabethrom.com",
+            "alt":"Portada de la web de Elizabeth Rom"
+        }
+    ]
+}
