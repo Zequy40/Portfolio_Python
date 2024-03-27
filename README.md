@@ -17,7 +17,7 @@ Desarrollado utilizando [Python](https://python.org) y [Reflex](https://reflex.d
 
 Plantilla web para programadores desarrollada con la premisa de crear el "portafolio perfecto", con todas las secciones e información fundamental.
 
-<a href="./demo.png"><img src="./demo.png" style="height: 50%; width:50%;"/></a>
+<a href="./demo.png"><img src="./assets/demo.png" style="height: 50%; width:50%;"/></a>
 
 * Avatar y datos principales
 * Información de contacto, CV y redes
